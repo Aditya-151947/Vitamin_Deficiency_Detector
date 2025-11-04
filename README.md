@@ -4,14 +4,6 @@
 
 **URL**: https://lovable.dev/projects/324831dd-95fb-4c96-90c0-2f8e7bb35b1e
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Vitamin Deficiency Detector Project](https://lovable.dev/projects/324831dd-95fb-4c96-90c0-2f8e7bb35b1e) and start prompting.
-
 
 ## What technologies are used for this project?
 
@@ -26,7 +18,7 @@ This project is built with:
 - alexnet
 - CNN
 
-##How to run?
+## How to run?
 - install nodejs if not installed: npm install
 - write in terminal: npm run dev
 
